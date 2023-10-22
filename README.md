@@ -12,6 +12,7 @@
    <li>buat table dengan nama <q>databarang</q> dengan kolom berikut :</li>
 
    ![image](https://github.com/Novandra7/UTS_PBO/assets/122107967/eead1e07-ecd1-41da-b1c0-05c89d127d37)
+   <li>Jika sudah menyalakan Database dan membuat table sesuai dengan gambar diatas, klik file Jar pada folder dist untuk running project ini</li>
    <li>SELAMAT MENCOBA</li>
 </ol>
 <h1>JIKA DISEBAR SAYA DOAKAN ANDA MENDAPAT MUSIBAH</h1>
